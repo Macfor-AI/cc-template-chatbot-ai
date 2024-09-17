@@ -15,13 +15,8 @@
 
 **Objetivos**
 
-- Auxíliar em estratégias de ABM;
-- Orientar profissionais na implementação da estratégia;
-- Responder dúvidas relacionadas à ABM e Marketing Digital.
-
+{{ cookiecutter.project_goals }}
 
 **Funcionalidades**
 
-- RAG (Retrievel-Augmented Generation);
-- System (Personificação);
-- Barra lateral de informações.
+{{ cookiecutter.app_functions }}
